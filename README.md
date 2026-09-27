@@ -63,13 +63,5 @@
 [![Google Play Store](https://img.shields.io/badge/-Google%20Play-34A853?style=flat&logo=google-play&logoColor=white)](https://play.google.com/) 
 [![Apple App Store](https://img.shields.io/badge/-App%20Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://www.apple.com/app-store/)
 
- 
-
 ---
-
-<br>
-
-![Rama's GitHub stats](https://github-readme-stats.vercel.app/api?username=rama-kanaparthy&show_icons=true&theme=highcontrast)
-
-<br>
 <br>
